@@ -38,7 +38,8 @@ a {
    z-index: 1;
 }
 .theme-toggler.active{
-  color:#333 ;
+  color:#fff ;
+  
 }
 
 .theme-toggler.active::before{
@@ -100,11 +101,11 @@ button#equal{
 }
 .calculator.dark button#clear{
   background-color: #1b2f38;
-  color: #aa00a4;
+  color: #fff;
 }
 
 .calculator.dark button.btn-equal{
-  background-color: #223323;
+  background-color: #1B2F38;
   color: #fff;
 }
 
